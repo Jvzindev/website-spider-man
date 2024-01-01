@@ -2,4 +2,8 @@
 
 <h2>Fotos do site:</h2>
 
-<img scr="Screenshot_1.png"/>
+<img src="1.png"/>
+
+
+<h2>Techs: HTML 5 e CSS3</h2>
+<p>Estou evoluindo no html e css, estou buscando melhorar meu responsivo!</p>
